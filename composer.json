@@ -1,6 +1,6 @@
 {
-    "name": "infyomlabs/laravel-generator",
     "description": "InfyOm Laravel Generator",
+    "name": "gosoftwareltd/laravel-generator",
     "keywords": [
         "laravel",
         "api",
